@@ -1,0 +1,5 @@
+Url del primer dataset formado (obsoleto): https://drive.google.com/open?id=1hDD9eiLofSlQ63SDjTQq4jC2vQ0samOs
+
+Url de dataset formado por clases imagenet (dimensiones 64): https://drive.google.com/open?id=1gdZcEqM8wT84S3WQ0POEGXtgnwLrWFAG
+
+Url de dataset formado por clases imagenet (dimensiones 224): https://drive.google.com/open?id=1NRXiv0ah0G7S3VtXiJ3fQzfxob2EASck
